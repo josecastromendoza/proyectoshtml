@@ -1,13 +1,19 @@
 body {
     background-color:#075E54
     }
+
+.titulo {
+    color:aqua;
+    text-align: center  ;
+}
     /*etiqueta.clase*/
-    p {
+ /*   p {
     text-align:center;
     margin-left:auto;
     margin-right:auto;
-    /*width:50%*/
+    /*width:50%
     }
+
     
     img.logo{
     display:block;
@@ -25,7 +31,7 @@ body {
     /*width:50%;
     max-width:300px;
     /*background-color:ligthlime;
-    border-radius:25px*/
+    border-radius:25px
     }
      
     div.formulario {
@@ -36,12 +42,12 @@ body {
     #explicacion {
     text-align:left;
     color:lightgreen;
-/*     background-color:lime;*/
+     background-color:lime;
     margin-left:auto;
     margin-right:auto;
     width: 50em;
     /*width:50%;
-    max-width:300px*/
+    max-width:300px
     }
    
 
@@ -76,3 +82,6 @@ body {
     text-align:center;
     color:green;
     }
+
+
+    */
