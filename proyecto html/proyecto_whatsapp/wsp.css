@@ -1,11 +1,16 @@
 body {
     background-color:#075E54
-    }
+}
 
 .titulo {
     color:aqua;
     text-align: center  ;
 }
+#datos_etiqueta1, #datos_etiqueta2 { 
+    color: aqua;
+}
+
+
     /*etiqueta.clase*/
  /*   p {
     text-align:center;
