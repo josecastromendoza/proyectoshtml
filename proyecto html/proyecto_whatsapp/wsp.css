@@ -28,7 +28,9 @@ button{
     height: 10em;
 }
 
+
 ::placeholder{
+    color: #075E54;
     text-align: center;
     font-style: italic;
 }
