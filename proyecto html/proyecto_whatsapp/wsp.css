@@ -1,42 +1,54 @@
 body {
-    background-color:#075E54
+    background-color: #075E54
 }
 
-div{
+div {
     text-align: center;
+    object-fit: contain;
 }
 
-button{
+button {
     border-color: transparent;
     border-radius: 50px;
     background-color: aqua;
-    box-shadow: 3px 3px rgba(0,0,0,0.5);
+    box-shadow: 3px 3px rgba(0, 0, 0, 0.5);
 }
 
 .titulo {
-    color:aqua;
-}
-
-
-#datos_etiqueta1, #datos_etiqueta2 { 
     color: aqua;
 }
 
-#datos_mensaje{
-    margin: auto;
-    width: 20em;
-    height: 10em;
+#datos_etiqueta1,
+#datos_etiqueta2 {
+    color: aqua;
 }
 
+#datos_mensaje {
+    margin: auto;
+    min-width: 20em;
+    min-height: 10em;
+}
 
-::placeholder{
+ ::placeholder {
     color: #075E54;
     text-align: center;
     font-style: italic;
 }
 
-    /*etiqueta.clase*/
- /*   p {
+img.logo {
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 15%;
+    min-width: 15%;
+    max-height: 20%;
+    max-width: 20%;
+}
+
+
+/*etiqueta.clase*/
+
+
+/*   p {
     text-align:center;
     margin-left:auto;
     margin-right:auto;
